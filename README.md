@@ -1,2 +1,2 @@
-# react-web3-demo
+# web3react-demo
 Created with CodeSandbox
